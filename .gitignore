@@ -1,9 +1,10 @@
-
-
+src/__pycache__/
 pycache/ *.py[cod] *$py.class
-venv/ .env/ env/ *.env
+venv/
+.env/ env/ *.env
 .vscode/ 
 .ipynb_checkpoints/
 data/*
 .DS_Store Thumbs.db
 *.log *.cache *.swp *.bak
+/plots
