@@ -27,7 +27,7 @@ def main():
     creditcard_df = clean_data(creditcard_df, 'Creditcard')
     print("Data cleaned successfully.")
     
-    # Merge IP data
+    # Merge IP data 
     fraud_df = merge_ip_data(fraud_df, ip_df)
     print("IP data merged successfully.")
     
