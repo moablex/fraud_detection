@@ -1,6 +1,6 @@
 src/__pycache__/
 pycache/ *.py[cod] *$py.class
-venv/
+../.venv/
 .env/ env/ *.env
 .vscode/ 
 .ipynb_checkpoints/
