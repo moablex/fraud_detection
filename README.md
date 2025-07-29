@@ -59,7 +59,9 @@ python3 main.py(linux or mac)
 
 ```bash
 fraud_detection_project/
-│
+│├── .github/
+│   └── workflows/
+│       └── ci.yml    # CI/CD configuration file
 ├── data/
 │ ├── Fraud_Data.csv
 │ ├── ipAddress_to_Country.csv
